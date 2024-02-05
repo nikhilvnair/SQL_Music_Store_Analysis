@@ -9,4 +9,4 @@ Postgre SQL
 PgAdmin4
 
 Schema- Music Store Database
-
+![MusicDatabaseSchema](https://github.com/nikhilvnair/SQL_Music_Store_Analysis/assets/158807864/d6360987-e0a2-4b1e-8100-cd4077ca13f0)
